@@ -17,14 +17,8 @@ End the program
 ```python
 
 #Program to find the solution for the given linear equations.
-#Developed by: HIRUTHIK SUDHAKAR   
-#RegisterNumber:212223240054
-import numpy as np
-A = [[5,-3,-10],[2,2,-3],[-3,-1,5]]
-B = np.array([-9,4,-1])
-C = np.linalg.solve(A,B)
-print(C)
-```
+#Developed by: M.Vetrivel   
+#RegisterNumber:25011461
 
 ## Output:
 
@@ -33,3 +27,5 @@ print(C)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
+<img width="366" height="93" alt="Screenshot 2025-09-18 083359" src="https://github.com/user-attachments/assets/45df99f1-b4e3-41ba-bf4c-9a5433c0013d" />
+<img width="568" height="136" alt="Screenshot 2025-09-18 083135" src="https://github.com/user-attachments/assets/307499bf-53a4-4af8-84e5-02c0866481e5" />
