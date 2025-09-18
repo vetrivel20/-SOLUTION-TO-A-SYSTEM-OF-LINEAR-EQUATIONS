@@ -11,6 +11,8 @@ Import the numpy module to use the built-in functions for calculation
 Prepare the lists from each linear equations and assign in np.array()
 ### Step 3: 
 Using the np.linalg.solve(), we can find the solutions.
+<img width="366" height="93" alt="Screenshot 2025-09-18 083359" src="https://github.com/user-attachments/assets/2ea59f4e-6a19-4dd8-b500-a11df33a6caf" />
+<img width="568" height="136" alt="Screenshot 2025-09-18 083135" src="https://github.com/user-attachments/assets/72cd7d85-40ed-4583-be0a-826719514926" />
 ### Step 4: 
 End the program
 ## Program:
